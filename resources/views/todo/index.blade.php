@@ -45,7 +45,7 @@
             <a href="{{asset('/' . $todo->id . '/delete')}}" class="ecd">DELETE</a>
         </li><br><br><hr>
     @endforeach
-                <!-- <button class="btn-new">Add to cart</button> -->
+               
         </div>
 </body>
 </html>
